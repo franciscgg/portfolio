@@ -1,7 +1,7 @@
 # Portfólio
 Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/heelinho/portfolio/assets/113110382/b91ff42b-ebf5-4023-add9-8e6a0baa076e)
+![image](https://github.com/heelinho/portfolio/assets/113110382/0ebe181d-e3c5-4ddb-8bff-c7d00d542bdd)
 
 ## Ferramentas utilizadas:
 
